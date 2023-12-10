@@ -1,1 +1,2 @@
 # RANDOM-
+cd RANDOM 
