@@ -1,2 +1,2 @@
-# RANDOM-
-cd RANDOM 
+# xxx
+cd xxx
